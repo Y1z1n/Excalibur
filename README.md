@@ -2,7 +2,7 @@
 -------------------
 Instagram Live bot
 
-[+] - It will control many Instagram accounts to join specific user bot
+[+] - It will control many Instagram accounts to join specific user live stream
 
 [+] - You can control the colors of the program
 
