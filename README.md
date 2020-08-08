@@ -2,9 +2,13 @@
 -------------------
 Instagram Live bot
 [+] - It will control many Instagram accounts to join specific user bot
+
 [+] - You can control the colors of the program
+
 [+] - You can control bots inside the live by commands
+
 [+] - You can set a hello msg so whenever the bots join they will comment the hello msg you typed
+
 [+] - Same thing goes for the goodbye msg
 
 #The bot responses will be in arabic
