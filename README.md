@@ -30,4 +30,6 @@ Instagram Live bot
 8-!SetMaster | Set a master and it will only recieve the commands from the master
 
 
-Made by @Y1z1n.programs in instagram
+Made by @Y1z1n.programs in instagram 
+
+Link : https://www.instagram.com/Y1z1n.programs
