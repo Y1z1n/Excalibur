@@ -22,6 +22,7 @@ Instagram Live bot
 2-!Flip | Flipping a coin
 
 3-!RPS | Rock , Paper , Scissors
+
 4-!FullInfo:Username | Comment some data about the Username after the :
 
 5-!Id | Get the id of the live owner id
