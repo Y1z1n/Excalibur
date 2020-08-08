@@ -14,6 +14,9 @@ Instagram Live bot
 
 #The bot responses will be in arabic
 
+| Commands |
+------------
+
 1-!Comment:YOUR_COMMENT_HERE | The bot accounts will comment whatever you put after : 
 
 2-!Flip | Flipping a coin
